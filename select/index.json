@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "e-m@il",
+  "base_artist": "Lilniina",
+  "createdAt": "2026-02-12T08:32:44.977574Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "e-m@il",
+      "artist": "Lilniina",
+      "has_synced": false,
+      "path": "select/pl_01_e-m@il_Lilniina.txt"
+    }
+  ]
+}
